@@ -3,10 +3,9 @@ title: "Index"
 date: 2021-08-12T12:13:27+05:30
 next: "chapter1"
 prev: ""
-draft: true
 ---
 
-I spent my February 2021 in Mulki, a small town along the coast of Karnataka.
+I spent February 2021 in Mulki, a small town along the coast of Karnataka.
 I was volunteering at a surf school, and in exchange for my tasks, I was
 supposed to learn how to surf.
 

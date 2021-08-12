@@ -1,7 +1,6 @@
 ---
 title: "Chapter 1: Initiative"
 date: 2021-08-12T12:13:27+05:30
-draft: true
 prev: ""
 next: "chapter2"
 islast: false
