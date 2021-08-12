@@ -1,0 +1,5 @@
+baseURL = "https://mulki.samhattangady.com/"
+languageCode = "en-us"
+title = "My Month in Mulki"
+theme = "mulki"
+

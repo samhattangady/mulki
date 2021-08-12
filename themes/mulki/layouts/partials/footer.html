@@ -1,0 +1,19 @@
+<br><br>
+{{ if .IsHome }}
+<div class="footer center">
+<a href=/{{.Params.Next}} class="footer-option"> Start Reading </a>
+</div>
+{{ else }}
+{{ if .Params.Islast }}
+<div class="footer">
+<a href=/{{.Params.Prev}} class="footer-option"> Previous </a>
+</div>
+{{ else }}
+<div class="footer">
+<a href=/{{.Params.Prev}} class="footer-option"> Previous </a>
+<a href=/{{.Params.Next}} class="footer-option"> Next </a>
+</div>
+{{ end }}
+{{ end }}
+<p class="footernote"> As recalled by Samarth Hattangady</p>
+<br><br>
