@@ -14,6 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: jakejarvis/hugo-build-action@v0.87.0
+      - run: echo mulki.samhattangady.com > public/CNAME
       - uses: JamesIves/github-pages-deploy-action@4.1.4
         with:
           branch: gh-pages # The branch the action should deploy to.
