@@ -12,4 +12,8 @@ supposed to learn how to surf.
 Once the month ended, I could not confidently say that I had learnt
 to surf, but I definitely ended up learning a lot of other things.
 
-_All the characters and events depicted are non-fictitious. Any resemblance to a person, living or dead, is largely deliberate. Names may have been changed for privacy reasons._
+<br>
+
+<em class='disclaimer'>
+Some of the characters and events depicted are not entriely fictitious. Any resemblance to a person, living or dead, could be deliberate. Names may have been changed.
+</em>
