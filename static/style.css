@@ -2,6 +2,8 @@ body {
     font-family: 'Roboto Slab', serif;    
     overflow-y: scroll;
     margin: 0;
+    display: flex;
+    justify-content: center;
 }
 
 h3 {
@@ -11,16 +13,13 @@ h3 {
 }
 
 .total {
-    width: 100%;
-    display: flex;
-    justify-content: center;
     min-height: 100vh;
-    background-color: #bbdefb;
-    color: #263248;
 }
 
 .content {
-    width: 600px;
+    max-width: 600px;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 .header {
@@ -66,7 +65,7 @@ h3 {
     color: #263248;
     font-weight: bold;
     padding: 20px;
-    width: 200px;
+    width: 120px;
     text-align: center;
     background-color: #00000013;
 }
