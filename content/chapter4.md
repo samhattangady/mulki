@@ -8,7 +8,7 @@ islast: false
 
 "Sammy bro, what happened bro?"
 
-I suddenly snap back to my senses. I look around and see that most of
+I am suddenly snapped back to my senses. I look around and see that most of
 the boys are no longer sitting on the verandah. They've all headed
 inside to participate in their chosen kind of worship to Lord Shiva.
 It's just me and Guru now, sitting outside. It's the middle of the

@@ -1,10 +1,37 @@
 ---
-title: "Epilogue"
+title: "Epilogue: Adventure"
 date: 2021-08-12T12:13:27+05:30
 prev: "conclusion"
 next: ""
 islast: true
 ---
 
-epilogue things. maybe merge with conclusion. final exam. but that's not in
-february and not in mulki, so that's a story for another time.
+The universe works in funny ways sometimes. I spent my month in Mulki,
+and was quite happy with the time I got to spend, and the lessons that I
+got to learn. But as it turned out, my whole month was more of an
+opportunity to study for a final exam that had probably been planned all along.
+
+The exam came in the form of an opportunity for an adventure. But in
+order to be able to actually see the opportunity for what it was, and
+then be able to accept it, I needed to have learnt all the lessons that
+were part of my syllabus.
+
+I got to know my fellow adventurer because I was [leading a kayaking
+expedition](/chapter5), and making sure I was taking every effort in
+ensuring that the guests felt comfortable, and [talking to
+them](/chapter6), so that we could all get the most out of our
+experience.
+
+It only happened because of a certain sense of [patience and
+persistence](/chapter3), and a certain focus on [making the most of the
+present moment](/chapter4).
+
+And when the [opportunity presented itself](/chapter2), I had to [say
+yes, immediately](/chapter1). And while I really didn't know how the
+adventure would go, I
+knew [there was only one way of finding out](/chapter7).
+
+Over the course of that adventure, I got to learn a whole lot, probably
+even more than I learnt in Mulki. But none of that happened in February,
+and none of that happened in Mulki. So it is a different story, for a
+different time.
