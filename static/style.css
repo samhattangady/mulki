@@ -41,7 +41,14 @@ h3 {
     margin-top: -4px;
 }
 .header-hr {
-    border-top: 1px solid #263248;
+    border: 1px solid #26324877;
+    margin: 0;
+}
+
+hr {
+    border: 1px solid #26324833;
+    margin-left: 4em;
+    margin-right: 4em;
 }
 
 .chapter-heading {
