@@ -63,4 +63,4 @@ of it."
 
 ### Lesson 3:
 When things aren't going as you'd like, don't worry. Just focus on your
-efforts, and have patience. You **will** get the hang of it.
+efforts, and have patience. You will get the hang of it.

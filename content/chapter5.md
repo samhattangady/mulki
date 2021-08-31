@@ -95,9 +95,17 @@ with. Speaking to guests and making them feel at ease when they took
 part in activities often led to me learning a lot more than I otherwise
 would have.
 
-There is a concept called _Karma Yoga_ in Hinduism. Several other
-religions also share similar ideas in their own modified ways, but
-the basic concept remains the same. It talks about how one of the purest
+Over time, I learnt how to read the tide, and got to know which areas to
+avoid in low tide, so that our kayaks do not get beached. I learnt how
+to keep large groups of people bunched together, even when there are the
+overenthusiastic and the struggling. I learnt how to hande a father
+whose kids kept getting stuck, and how to ensure that he doesn't get
+stuck as well. Learnings across fields and verticals, but still earned
+through a dedication to do my job well.
+
+There is a concept in several religions. Hinduism calls it _Karma Yoga_,
+while other religions have other names. The names are different, but the
+nugget of wisdom is the same. It talks about how one of the purest
 forms of prayer is doing your assigned tasks with complete sincerity.
 
 I really felt that this was one of the most meaningful learning that I
@@ -105,13 +113,13 @@ got from my entire month. The more sincerity and devotion I showed to
 the tasks that I had taken up, the more I seemed to be getting out of
 them. There is something spiritual about giving your best to your task,
 with no expectations in mind. Sometimes you get very tangible benefits,
-sometimes it's just a clear conscience and a good nights sleep. So every
+other times it's just a clear conscience and a good nights sleep. So every
 task that I took up, I managed to get something out of it.
 
 Except peeling potatoes. I don't think I can romanticize peeling
 potatoes. Yet.
 
 ### Lesson 5:
-Whenever you are given a task, if you intend to do it, do it with a
-complete sense of sincerity, and without expectations. That is what is
+Whenever you are given a task, whatever it may be, if you intend to do it, do it with a
+complete sense of sincerity, and without any expectations. That is what is
 going to give you the best results, whatever they may be.
