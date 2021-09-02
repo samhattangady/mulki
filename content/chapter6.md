@@ -10,16 +10,13 @@ One of the interesting design decisions that was taken while creating
 the surfing school itself (probably accidental), is that the rooms
 themselves are not neccessarily the most comfortable space to spend
 time. The common areas however, with their excellent views, comfortable
-seating, and perpetual stiff breeze, result in exponentially more ideal
+seating, and perpetual stiff breezes, tend to be exponentially more ideal
 gathering spots.
 
 Thus, most guests, and most volunteers tend to use their rooms mostly
 just to sleep. Most of the free time is spent outside, in the common
 areas, together. Suddenly _hospitality_ has a tendency to become a
-full-time affair. There are obviously two ways to tackle this issue.
-Either you try to run away from it, or take the opportunity to make the
-most of it.
-
+full-time affair.
 For someone like myself, constant interaction slowly grinds me down. I
 need my solitude. But hey, it's just a month. Let's see how much we can
 push it. And amongst the hundreds of people I went out of my way to talk
@@ -29,17 +26,17 @@ There are some special interactions that you get to have in life, where
 it just feels like you are sharing a mental bond with someone. There is
 a sense that both of you are somehow sharing the same thought patterns.
 You may or may not be starting from the same points, or reaching the
-same conclusions, but there is a familiarity in the way that both of you
-think, and both of you strongly sense that.
+same conclusions, but there is a familiarity in the trains that you both
+board, and both of you strongly sense that.
 
 These generally tend to happen in intimate one on one conversations, and
 very often with people you may not suspect. They start innocuosly, maybe
 as a part of a larger group conversation, and slowly, the two of you
 start steering it along a mutually unplanned yet inevitable path. You
-lose track of time, and people who were part of it, slowly drop out of
-the conversation until it is just the two of you.
+lose track of time, and other people who may have been present at the
+start of the coversation, slowly drop out until it is just the two of you.
 
-There is something about these kinds of conversations provide a very
+There is something about these kinds of conversations that provides a very
 fertile ground for learning. In an ordinary conversation, we tend to
 have our mental guards up. All the incoming comments are filtered
 through a bunch of biases, and ideas are often ignored due to their
