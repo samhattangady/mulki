@@ -45,7 +45,7 @@ And then I saw an artist, who had really not done any physical
 activities for most of her life. She was a little clumsy, and didn't look like
 she really belonged in the water. But when it came to surfing, I was
 just in awe. By the middle of her first session, she was easily catching
-and riding long waves, maneuvring her board to not hit other surfers,
+and riding long waves, maneuvering her board to not hit other surfers,
 and looking like she was a seasoned professional.
 
 There was no real indicator as to whether someone would be a good
@@ -62,7 +62,7 @@ seen there is only one way to know if you're going to be good at it."
 He watches me expectantly. I take the opportunity to lengthen my
 dramatic pause.
 
-"Just go out there and try it."
+> "Just go out there and try it."
 
 
 ### Lesson 7:
