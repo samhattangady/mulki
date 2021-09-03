@@ -52,12 +52,11 @@ then you'll be able to pop up at the right time.
 "Sam, I am struggling to get balance on the board. You seem to be able
 to do it quite easily... What do you think I am doing wrong."
 
-"Arjun, honestly, there is a lot of stuff there is to learn. There are
+"Aruna, honestly, there is a lot of stuff there is to learn. There are
 better people here who can teach you all of those things. But honestly,
 if there is one thing that is wrong, it's that you just
 haven't surfed enough.
-> So just keep trying to surf. You'll get the hang
-of it."
+> So just keep trying to surf. You'll get the hang of it."
 
 ---
 

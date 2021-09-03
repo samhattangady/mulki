@@ -17,3 +17,5 @@ to surf, but I definitely ended up learning a lot of other things.
 <em class='disclaimer'>
 Some of the characters and events depicted are not entriely fictitious. Any resemblance to a person, living or dead, could be deliberate. Names may have been changed.
 </em>
+
+<br>
