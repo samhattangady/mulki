@@ -6,11 +6,11 @@ next: "chapter6"
 islast: false
 ---
 
-Volunteering is an interesting experience. For those familiar with
-concepts of Game Theory and such, a lot of interesting situations tend
+Volunteering is a different kind of experience. For those familiar with
+concepts of Game Theory, a lot of interesting situations tend
 to arise. Theoretically, the situations arise regardless of whether one
 is aware of the mathematical concepts behind them, but I guess I'm
-enough of a nerd to enjoy viewing scenarios in my life through
+enough of a nerd to enjoy viewing these kinds of scenarios through
 theoretical lenses.
 
 In the case of Mulki at least, us volunteers don't specifically have
@@ -19,7 +19,7 @@ There are the volunteers, and there are the duties. Everything beyond
 that is left to us to figure out.
 
 What tends to happen in scenarios like this, is that all the people
-involved will search for that balance, where they are performing as
+involved will search for a balance, where they are performing as
 little of their duties as possible, without triggerring the management
 or the rest of the volunteers. So each person tries to get by with the
 minimum possible effort.
@@ -27,7 +27,7 @@ minimum possible effort.
 Along with this, a kind of social hierarchy emerges. One where there is
 a person at the bottom. And that person is the one who is doing the
 majortity of the work, picking up all the excess slack. And nobody wants to
-be that person. So when trying to find the balance, that is another
+be _that_ person. So when trying to find your balance, that is another
 invisible pressure that starts being applied. Don't do so much work that
 the others start taking advantage of you, and make you into some kind of
 [greater fool](https://en.wikipedia.org/wiki/Greater_fool_theory).
@@ -36,8 +36,8 @@ This whole scenario tends to become cyclic in nature. People all do
 their duties, and then slowly as time passes, people to less and less,
 and subconsciously socially pressure others into doing lesser as well,
 until we reach a tipping point where something is not done, and we are
-all gathered up and told off. Then people go back to doing their
-fair share of the duties, and the cycle continues.
+all told off. Then people go back to doing their
+fair share of the duties, and the cycle starts again.
 
 ---
 
@@ -46,19 +46,19 @@ I was tired of all the games that were being played. I hadn't even
 realised when I had started playing them, and why I had become so
 involved in all of it. It just was something that everyone seems to slip
 into. Some kind of unspoken social agreement, that this is how things
-are going to work between us. And maybe it was time to get out of that.
+work here. And maybe it was time to get out of that.
 
 So then I just took the call that I am not going to shirk the duties any
 more. If it meant picking up all the extra slack, then I was going to do
 that, and if it meant being the greater fool, well that was just
-something that I would have to embrace.
+a role that I would have to embrace.
 
 Suddenly, I just felt a lot more at ease with myself. There was no more
-unspoken negotiations on who would be doing a task. If I was there, it
-would probably be me, unless otherwise specifically requested. I felt a
-lot of stress and anxiety being released. I had not realised just how
-much playing that whole game was weighing on me. So I suddenly found
-myself enjoying myself a lot more, and just being at peace.
+unspoken negotiations on who would be doing a task. If I was present, it
+would probably be me. All my stress and anxiety was released.
+I had not realised just how
+much playing this invisible game had affected me. So I suddenly found
+that I was enjoying myself a lot more, and just being at peace.
 
 The wierdest thing is that most of the duties weren't even unpleasant.
 One of the duties was leading kayaking sessions around the backwater
@@ -77,10 +77,10 @@ guests. They came from various parts of the country and from several
 unique backgrounds. While there was your standard smattering of software
 and management folk, there was also a whole other spectrum available
 as well. There were artists, architects, personal trainers, and CEOs. It
-really felt that a whole generation seemed to be represented there.
+really felt that a certain section of my whole generation was represented here.
 
 The dining room was the one place where everyone would actually come
-together and spend some time together. That meant that it was where the
+and spend some time together. This was the place where the
 most simulating conversations were happening. It took a while for me to
 realise, but every meal seemed to be a unique gathering of people
 representing a unique set of viewpoints. So while serving food, if I
@@ -95,31 +95,31 @@ with. Speaking to guests and making them feel at ease when they took
 part in activities often led to me learning a lot more than I otherwise
 would have.
 
-Over time, I learnt how to read the tide, and got to know which areas to
+Over time, I learnt how to read the tide, how it affected the river mouth, 
+and got to know which areas to
 avoid in low tide, so that our kayaks do not get beached. I learnt how
 to keep large groups of people bunched together, even when there are the
 overenthusiastic and the struggling. I learnt how to hande a father
-whose kids kept getting stuck, and how to ensure that he doesn't get
+whose kids' kayaks kept getting stuck, and how to ensure that he doesn't get
 stuck as well. Learnings across fields and verticals, but still earned
 through a dedication to do my job well.
 
-There is a concept in several religions. Hinduism calls it _Karma Yoga_,
-while other religions have other names. The names are different, but the
-nugget of wisdom is the same. It talks about how one of the purest
+There is a concept called _Karma Yoga_. It exists across several religions
+with several names, but the core idea remains the same. It says that the purest
 forms of prayer is doing your assigned tasks with complete sincerity.
 
-I really felt that this was one of the most meaningful learning that I
+I really felt that this was one of the most meaningful learnings that I
 got from my entire month. The more sincerity and devotion I showed to
 the tasks that I had taken up, the more I seemed to be getting out of
 them. There is something spiritual about giving your best to your task,
 with no expectations in mind. Sometimes you get very tangible benefits,
 other times it's just a clear conscience and a good nights sleep. So every
-task that I took up, I managed to get something out of it.
+task that I took up, I managed to get something meaningful out of it.
 
 Except peeling potatoes. I don't think I can romanticize peeling
-potatoes. Yet.
+potatoes.
 
 ### Lesson 5:
 Whenever you are given a task, whatever it may be, if you intend to do it, do it with a
-complete sense of sincerity, and without any expectations. That is what is
-going to give you the best results, whatever they may be.
+complete sense of sincerity, and without any expectations. That will
+give you the best results, whatever they may be.

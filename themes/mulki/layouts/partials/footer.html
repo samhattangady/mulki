@@ -9,11 +9,14 @@
 <a href=/{{.Params.Prev}} class="footer-option"> Previous </a>
 </div>
 {{ else }}
+{{ if .Params.Islist }}
+{{ else }}
 <div class="footer">
 <a href=/{{.Params.Prev}} class="footer-option"> Previous </a>
 <a href=/{{.Params.Next}} class="footer-option"> Next </a>
 </div>
 {{ end }}
 {{ end }}
-<p class="footernote"> As recalled by Samarth Hattangady</p>
+{{ end }}
+<p class="footernote"> As recalled by Samarth Hattangady | <a href="/chapters"> List of Chapters</a></p>
 <br><br>

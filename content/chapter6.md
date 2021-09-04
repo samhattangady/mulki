@@ -6,20 +6,20 @@ next: "chapter7"
 islast: false
 ---
 
-One of the interesting design decisions that was taken while creating
-the surfing school itself (probably accidental), is that the rooms
-themselves are not neccessarily the most comfortable space to spend
+One of the more interesting features (though probably accidental) of
+the surfing school's design, was that the rooms
+themselves are not neccessarily the most comfortable spaces to spend
 time. The common areas however, with their excellent views, comfortable
 seating, and perpetual stiff breezes, tend to be exponentially more ideal
 gathering spots.
 
-Thus, most guests, and most volunteers tend to use their rooms mostly
+Thus, most guests, and most volunteers tend to use their rooms 
 just to sleep. Most of the free time is spent outside, in the common
 areas, together. Suddenly _hospitality_ has a tendency to become a
 full-time affair.
-For someone like myself, constant interaction slowly grinds me down. I
-need my solitude. But hey, it's just a month. Let's see how much we can
-push it. And amongst the hundreds of people I went out of my way to talk
+Generally, constant interaction just grinds me down. But I was just here
+for a month. Let's see how much we can push it.
+And amongst the hundreds of people I went out of my way to talk
 to and interact with, there were some that just stood out.
 
 There are some special interactions that you get to have in life, where
@@ -93,11 +93,11 @@ on society. But now, they all come with an asterisk. Context matters.
 
 ---
 
-We were sitting in the dining room. He is a part of the first round of
-guests. He's a very talkative guy, and is just sitting around talking to
-every round of guests as they come in to eat. I am busy in serving the
-food, and am not really able to dive deep into conversation. Until I am.
-And again, it is the same. One eternal moment later, lunch time is long
+We were sitting in the dining room. He was a part of the first round of
+guests. He's a very talkative guy, and was just sitting around talking to
+every round of guests as they come in to eat. I was busy serving the
+food, and was not really able to dive deep into conversation. Until I was.
+And again, it was the same. One eternal moment later, lunch time is long
 gone, and it's just us, chatting in the dining room.
 
 This time, it's the company that he has just joined. I have a list of
@@ -117,27 +117,27 @@ So again. Asterisk added. Context matters.
 
 ---
 
-We are sitting out on the deck. The sun is about to set, and the whole
-sky and river is lit up in the brilliant hues that only sunsets can inspire.
-It is not a moment for talking. It is a moment for basking in the glory
-of the universe. Once the sun has set, and the chill of the evening begins
-to set in, he turns to me, and says, "So tell me about you Sam."
+We were sitting out on the deck. The sun was about to set, and the whole
+sky and river was lit up in the brilliant hues that only sunsets can inspire.
+It was not a moment for talking. It was a moment for basking in the glory
+of the universe. Once the sun had set, and the chill of the evening began
+to set in, he turned to me, and said, "So tell me about you Sam."
 
-This time, there is no extended conversation. No subjective time
+This time, there was no extended conversation. No subjective time
 relativity of any sort. It's just a single question, asked with such
 sincerity, and with a gentleness that is almost forceful, all barriers
-fall aside, and there is only openness. And it is tangible. And
-everything just flows out.
+fall aside, and there was only openness. And it was tangible. And
+everything just flowed out.
 
-He is a little older than I am. While the others seemed to be at similar
+He was a little older than I am. While the others seemed to be at similar
 distances along the paths I was travelling, he felt like he was way
 ahead in all aspects. That he had already had all of these thoughts that
 I was currently having, and had managed to resolve all the crossroads
 and paradoxes that I was facing. A well of wisdom at which I had
 somehow found myself, and I was going to quench myself to the fullest.
 
-He shared a lot of wisdom. Most of that is only for me. But there was
-one thing he said though, that really put everything into place. All the
+He shared a lot of wisdom. But there was
+one thing he said, that really put everything into place. All the
 things that I had been struggling with, now suddenly had a framework
 through which they could be understood and reckoned with.
 
@@ -147,7 +147,8 @@ In an instant, a lot of things fell into place. How had I condemned companies
 as evil? Or professions as wasteful? It was all just an over-correction
 on the side of my principles. As much as I wanted to live my life by
 them, it's not a meaningful goal. There has to be a compromise at some
-point, and we have to accept where we are going to draw those lines.
+point, and we need to accept that we are going to have to draw some lines, and
+be mindful of where we choose to draw them.
 
 ---
 

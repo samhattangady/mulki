@@ -35,7 +35,7 @@ from the shore.
 
 "Wait wait wait wait _wait_"
 
-A heap of bags slung over arms and shoulders was heading our way. A bright blue
+A heap of bags slung over arms and shoulders was heading our way. And a bright blue
 surfboard balanced on dreadlocks casually bouncing in the air.
 
 As he noticed that the boat was indeed wait wait wait wait _waiting_ for him,
@@ -52,9 +52,9 @@ The air was crisp and cool as the boat whirred and puttered its way over the
 river towards the beach. The breeze blew away some of my grogginess as we
 reached our destination.
 
-I jumped out of the boat, and splashed around a bit in the shallow waters. I
-barely noticed when a large sack of tents was hoisted onto my back, and a finger
-pointed me towards the campsite.
+I jumped out of the boat, and splashed around a bit in the shallow waters. Before
+I could notice, a large sack of tents had been hoisted onto my back, and a finger
+pointed me towards the beach.
 
 "Just place this near the campsite. Oh and you'll need to help set up the
 campfire as well."
@@ -65,20 +65,19 @@ largest piece of wood to the campfire. The wood was soon piled up, and with a
 little help from petroleum and a matchstick, we had ourselves a campfire.
 
 As the fire sputtered to life, and the moon shown down on us with all its
-glory, we all settled down on the soft beach sands, with each of
-us looking for that perfect balance of cosy, with the warmth of the fire, and
-the chill of the sea breeze.
+glory, we all settled down on the soft beach sands. We scuttled slowly,
+forward and backward, trying to balance the chill sea breeze with the warmth
+of the campfire. Each of us in search of our own perfect pocket of cosiness.
 
-With the campfire warming us up, and the conversations flowing with the breeze,
+With the campfire warming us up, and the conversations flowing in the breeze,
 I could hardly have asked for more. But the universe has its own ways of
 granting you the things that you never even asked for.
 
-Turns out, that Walter, the one with the exorbitant luggage, was actually
-carrying all of that for a reason. He reached back around, and opened up one of
+Turns out that Walter was actually lugging all that luggage around for a reason.
+As we were talking, he casually reached back around, and opened up one of
 his bags and took out a guitar. My eyes probably glowed brighter than the moon
 for that one instant.
-
-I discreetly scooted my sand-covered bottom and moved as close to Walter as I
+I discreetly scooted my sand-covered bottom and moved as close to him as I
 could. He spent a few minutes tuning his guitar, and just noodling about.
 
 And then, it started.
@@ -92,7 +91,7 @@ There are some musicians who are performers. And then there are those special
 few, who are the curators of moments. Architects in space and time, who are not
 out to just play some tunes. They are trying to help construct a momument in
 spacetime that everyone present can return to. They encourage people to
-participate, and help build those foundations. They move all their efforts away
+participate, and help build on those foundations. They move all their efforts away
 from playing well and sounding good, and towards constructing an instance that
 is special and unique, and a perfect musicial representation of what it is like
 to sit by a campfire on a beach in Mulki, look up at the stars, and be wholly
@@ -119,4 +118,5 @@ in my heart.
 When an opportunity presents itself, it's not too wise to ignore it. Who knows
 how many more momuments in space and time could have your
 name on them if you live with an open heart and an open mind. Treat all
-those opportunities like long lost friends.
+those opportunities like long lost friends, and embrace them before the
+slip away.

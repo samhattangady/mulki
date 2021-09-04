@@ -28,7 +28,7 @@ my shoes till my socks had some extra holes in them.
 My first foray out of home was a three day surfing course in Mulki. The word
 ecstasy does some heavy lifting in describing how surfing feels, but it really
 isn't able to do it justice. Deep inside, there seemed to be a craving for
-more, and three days was barely enough to get me started, and I had to have more.
+more, and three days was barely enough to get me started, so I had to have more.
 
 Over the period of my course, I had learnt that they offered volunteering
 opportunities, where they provided food, lodging, and surfing in exchange
@@ -37,7 +37,7 @@ for a vaguely unspecified set of tasks.
 I was extremely interested in an opportunity like this. However, I also knew
 myself well enough to know that if I went back home, and gave it some serious
 thought, my expertise in finding excuses would flex its muscles, and it was
-likely that I would be surfing Netflix videos as opposed to the gorgeous waves
+likely that I would be surfing Youtube videos as opposed to the gorgeous waves
 in the Arabian Sea.
 
 Hence the need for one _serious_ conversation.
@@ -47,23 +47,23 @@ Hence the need for one _serious_ conversation.
 When a pressure cooker is fully pressurised, it whistles to relieve some of
 that pressure. Adi whistled. The glint was back with a vengeance.
 
-> "Oh yeah bro, sure. You know what it includes right?"
+"Oh yeah bro, sure. You know what it includes right?"
 
-> "Umm. I think so..."
+"Umm. I think so..."
 
-> "When can you get here?"
+"When can you get here?"
 
-> "1st Feb? I'll stay the whole month."
+"1st Feb? I'll stay the whole month."
 
-> "Done bro."
+"Done bro."
 
-> "Should I send a mail or someth..."
+"Should I send a mail or someth..."
 
-> "Nope. It's done."
+"Nope. It's done."
 
-> "But one of the other boys..."
+"But one of the other boys..."
 
-> "It's done bro. The _serious_ business has been conducted."
+"It's done bro. The _serious_ business has been conducted."
 
 And it was done. I was headed back to Bangalore that night, but I had secured
 myself a vaunted volunteering gig. Now it was only a matter of waiting

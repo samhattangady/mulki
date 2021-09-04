@@ -9,13 +9,12 @@ islast: false
 "Sammy bro, what happened bro?"
 
 I am suddenly snapped back to my senses. I look around and see that most of
-the boys are no longer sitting on the verandah. They've all headed
-inside to participate in their chosen kind of worship to Lord Shiva.
+the boys are no longer with us on the verandah.
 It's just me and Guru now, sitting outside. It's the middle of the
-afternoon, but we're sitting under the shade of some trees, and there is
-a cool breeze keeping us there.
+afternoon, but we're under the shade of some trees, and there is
+a cool breeze that is determined to keep us there.
 
-"I don't know man Guru. Nothing really went right while surfing today."
+"I don't know Guru. Nothing really went right while surfing today."
 
 "Why bro? What happened?"
 
@@ -34,10 +33,11 @@ Guru looks me straight in the eye, and puts his hand on my shoulder.
 Whenever I talk about Guru with the others, they always talk about how
 much energy he has. But somehow I never saw it that way. Sure, he does
 have a lot of energy. He can be found randomly breaking into song and
-dance, trying handstands and somersaults, and running behind the kids
-who live around the area. But I never felt that he was energetic. I always
-found him to be in a state of a certain kind of calm. Like nothing can really
-affect him. Like the ocean.
+dance, running behind the kids
+who live around the area, and spontaneously backflipping off structures
+that he finds pleasing. But I never felt that he was energetic. I always
+found him to a certain kind of calm. Like nothing can really
+get to him. Like the ocean.
 
 "Sammy bro, we got to spend four hours in the water. What more do I
 really want? For the last few years I've just been unhappy and lost.
@@ -51,19 +51,23 @@ mirror every morning. It was an incessant grind to do more, to get more,
 to be more. More productivity, more sales, more features. Goals were
 only set so that we can set more goals. There was no sense of
 accomplishment when we actually accomplished things. Just restlessness to
-set the next goals.
+set the next series of goals.
 
 But here he was, looking me right in the eye, a prime example of an
 ambition of a different kind. Something a little more simple. A little
-more joyful. Ambition whose fruits can be enjoyed in the present as opposed to a
+more joyful. Ambition whose fruits can be enjoyed in the present, as opposed to a
 dangled carrot that we mostly just imagine about. After the startup hustle
 ambition had ground me down, here was another ambition I could strive
 for that would build me back up again.
 
 I guess he saw the wheels whirring in my head, so he quickly clasped
-both my shoulders and gave the a quick squeeze. <br>"Sammy bro. Chill bro.
+both my shoulders and gave the a quick squeeze.
+
+"Sammy bro. Chill bro.
 Surf if you can catch the waves, otherwise just enjoy being in the
-water."<br> Then he quickly
+water."
+
+Then he quickly
 vaulted over the verandah, kicked up a cycle that was lying there, and
 sped off, popping a wheelie just before he escaped from view.
 
