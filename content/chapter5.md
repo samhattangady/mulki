@@ -99,7 +99,7 @@ Over time, I learnt how to read the tide, how it affected the river mouth,
 and got to know which areas to
 avoid in low tide, so that our kayaks do not get beached. I learnt how
 to keep large groups of people bunched together, even when there are the
-overenthusiastic and the struggling. I learnt how to hande a father
+overenthusiastic, the struggling and the instagrammers. I learnt how to hande a father
 whose kids' kayaks kept getting stuck, and how to ensure that he doesn't get
 stuck as well. Learnings across fields and verticals, but still earned
 through a dedication to do my job well.
