@@ -4,9 +4,6 @@ date: 2021-08-12T12:13:27+05:30
 islist: true
 ---
 
-I guess theoretically the lessons are all independent of each other,
-and the chapters can be read in any order. So go ahead.
-
 ### [Chapter 1: Initiative](/chapter1)
 
 ### [Chapter 2: Opportunity](/chapter2)
@@ -25,4 +22,6 @@ and the chapters can be read in any order. So go ahead.
 
 ### [Epilogue: Adventure](/epilogue)
 
-<br>
+<div class="invis">I guess theoretically the lessons are all independent of each other,
+and the chapters can be read in any order. So go ahead.</div>
+

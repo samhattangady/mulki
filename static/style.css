@@ -87,3 +87,7 @@ hr {
 .disclaimer {
     font-size: 0.7em;
 }
+
+.invis {
+    color: #00000000;
+}
