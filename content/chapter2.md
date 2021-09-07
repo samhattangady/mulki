@@ -89,7 +89,7 @@ intimate settings.
 
 There are some musicians who are performers. And then there are those special
 few, who are the curators of moments. Architects in space and time, who are not
-out to just play some tunes. They are trying to help construct a momument in
+out to just play some tunes. They are trying to help construct a monument in
 spacetime that everyone present can return to. They encourage people to
 participate, and help build on those foundations. They move all their efforts away
 from playing well and sounding good, and towards constructing an instance that
@@ -116,7 +116,7 @@ in my heart.
 
 ### Lesson 2:
 When an opportunity presents itself, it's not too wise to ignore it. Who knows
-how many more momuments in space and time could have your
+how many more monuments in space and time could have your
 name on them if you live with an open heart and an open mind. Treat all
 those opportunities like long lost friends, and embrace them before the
 slip away.
