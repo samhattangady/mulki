@@ -4,6 +4,7 @@ date: 2021-08-12T12:13:27+05:30
 prev: "chapter6"
 next: "conclusion"
 islast: false
+progress: "7"
 ---
 
 "Sam, I don't know. I've never really been active at any point in my

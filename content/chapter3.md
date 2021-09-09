@@ -4,6 +4,7 @@ date: 2021-08-12T12:13:27+05:30
 prev: "chapter2"
 next: "chapter4"
 islast: false
+progress: "3"
 ---
 
 "Vivek. How do you know which is a good spot to surf? Like where should we

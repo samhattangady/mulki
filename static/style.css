@@ -91,3 +91,37 @@ hr {
 .invis {
     color: #00000000;
 }
+
+.container-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.progress-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 200px;
+}
+
+.progress-item {
+    width: 1em;
+    height: 1em;
+}
+
+.progress-item .complete {
+    background-color: #26324877;
+    height: 100%;
+    border-radius: 1em;
+}
+.progress-item .current {
+    background-color: #263248;
+    height: 100%;
+    border-radius: 1em;
+}
+.progress-item .incomplete {
+    background-color: #00000013;
+    height: 100%;
+    border-radius: 1em;
+}

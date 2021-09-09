@@ -4,6 +4,7 @@ date: 2021-08-12T12:13:27+05:30
 prev: "conclusion"
 next: ""
 islast: true
+progress: "9"
 ---
 
 The universe works in funny ways sometimes. I spent my month in Mulki,

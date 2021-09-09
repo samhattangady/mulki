@@ -2,6 +2,7 @@
 title: "List of Chapters"
 date: 2021-08-12T12:13:27+05:30
 islist: true
+progress: "0"
 ---
 
 ### [Chapter 1: Initiative](/chapter1)

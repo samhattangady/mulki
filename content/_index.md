@@ -3,6 +3,7 @@ title: "Index"
 date: 2021-08-12T12:13:27+05:30
 next: "chapter1"
 prev: ""
+progress: "0"
 ---
 
 I spent February 2021 in Mulki, a small town along the coast of Karnataka.

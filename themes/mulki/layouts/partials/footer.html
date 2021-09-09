@@ -1,4 +1,4 @@
-<br><br>
+<br>
 {{ if .IsHome }}
 <div class="footer center">
 <a href=/{{.Params.Next}} class="footer-option"> Start Reading </a>
@@ -8,6 +8,23 @@
 7 chapters, followed by a conclusion and epilogue.
 </div>
 {{ else }}
+<div class="container-container">
+    <div class="progress-container">
+    {{ $progress := (int .Params.Progress) }}
+    {{ range $i := (seq 9) }}
+    <div class="progress-item">
+    {{ if (lt $i $progress ) }}
+        <div class="complete"></div>
+    {{ else if (eq $i $progress) }}
+        <div class="current"></div>
+    {{ else }}
+        <div class="incomplete"></div>
+    {{ end }}
+    </div>
+    {{ end }}
+    </div>
+</div>
+<br>
 {{ if .Params.Islast }}
 <div class="footer">
 <a href=/{{.Params.Prev}} class="footer-option"> Previous </a>

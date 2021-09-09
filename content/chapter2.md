@@ -4,6 +4,7 @@ date: 2021-08-12T12:13:27+05:30
 prev: "chapter1"
 next: "chapter3"
 islast: false
+progress: "2"
 ---
 
 "Bhai, chalo, get up. We're going for camping tonight, se we'll all go to
